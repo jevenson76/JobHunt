@@ -18,7 +18,9 @@ An automated job search and application system using CrewAI, FastAPI, and React.
 
 cd backend
 python -m venv venv
-source venv/bin/activate # Windows: venv\Scripts\activate
+source venv/bin/activate 
+
+# Windows: venv\Scripts\activate
 pip install -r requirements.txt
 alembic upgrade head
 
