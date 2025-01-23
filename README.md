@@ -34,8 +34,8 @@ An automated job search and application system using CrewAI, FastAPI, and React.
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/job-search-automation.git
-cd job-search-automation
+git clone https://github.com/jevenson76/JobHunt.git
+cd JobHunt
 
 # Create and activate virtual environment
 python -m venv venv
